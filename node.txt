@@ -1,6 +1,6 @@
 ＃节点列表
 
-#joya.ga节点1
+#joyo.ga节点1
 
 ssr://MTk0LjE0Ny4zNS40Njo4MDphdXRoX3NoYTFfdjQ6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6VFdRNWFEaGtWMjVBLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2Jmdyb3VwPQ
 
